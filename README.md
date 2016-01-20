@@ -1,3 +1,3 @@
 A program chrestomathy to exercise NOP and other important idioms.
-See the following slide deck for documentation and background:
-http://userpages.uni-koblenz.de/~laemmel/oopm/slides/xmas-oopm-121218.pdf
+The chrestomathy is used as part of a computer science intro course.
+http://softlang.wikidot.com/course:oopm
